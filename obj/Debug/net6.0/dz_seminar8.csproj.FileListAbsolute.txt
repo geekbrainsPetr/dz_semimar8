@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\bin\Debug\net6.0\dz_seminar8.exe
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\bin\Debug\net6.0\dz_seminar8.deps.json
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\bin\Debug\net6.0\dz_seminar8.runtimeconfig.json
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\bin\Debug\net6.0\dz_seminar8.dll
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\bin\Debug\net6.0\dz_seminar8.pdb
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.AssemblyInfo.cs
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.dll
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\refint\dz_seminar8.dll
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.pdb
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\dz_seminar8.genruntimeconfig.cache
+C:\Users\PC\Desktop\CSh\DZ\dz_seminar8\obj\Debug\net6.0\ref\dz_seminar8.dll
